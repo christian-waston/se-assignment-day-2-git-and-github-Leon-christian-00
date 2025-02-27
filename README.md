@@ -589,7 +589,8 @@ These tools play a crucial role in improving project organization and fostering 
 4. **Cross-Team Coordination**:  
    - In large projects involving multiple teams (e.g., frontend, backend, QA), project boards ensure alignment and coordination.  
      - For example, a backend team might create an issue for "Implement API endpoints for user registration."  
-     - Once the backend work is complete, the corresponding card is moved to "Ready for Frontend Integration," signaling the frontend team to proceed.  
+     - Once the backend work is complete, the corresponding card is moved to "Ready for Frontend Integration," signaling the frontend team to proceed.
+      
 
 ---
 
